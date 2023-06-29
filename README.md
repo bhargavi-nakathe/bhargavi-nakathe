@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bhargavi-nakathe
 
-<!--
-**bhargavi-nakathe/bhargavi-nakathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Nakathe Bhargavi, a passionate developer who loves to explore the world of programming. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on honing my programming skills and exploring new technologies.
+- 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
+- 🎓 
+
+## GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi-nakathe)](https://github.com/harika-haru)
+
+## Recently Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-nakathe&layout=compact)
+
+## Fun Fact
+
+Fun fact about me: I can speak six languages!🌍🗣️
