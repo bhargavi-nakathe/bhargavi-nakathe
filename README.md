@@ -6,8 +6,7 @@ Hello there! 👋 I'm Nakathe Bhargavi, a passionate developer who loves to expl
 
 - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-- 🎓 
-
+- 🎓 I'm currently pursuing my first year BTech in Computer science (AI & ML).
 ## GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi-nakathe)](https://github.com/harika-haru)
